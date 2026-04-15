@@ -59,8 +59,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathaushuber&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathaushuber&theme=github-dark-blue&hide_border=true" height="170" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mathaushuber&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mathaushuber&theme=github-dark-blue&hide_border=true" />
 </div>
 
 <div align="center">
