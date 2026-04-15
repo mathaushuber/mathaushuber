@@ -42,27 +42,7 @@
 
 <div align="center">
 
-<kbd>languages</kbd>
-
-<img src="https://skillicons.dev/icons?i=ts,js,java,py&theme=dark" />
-
-<br/>
-
-<kbd>frontend · mobile</kbd>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular&theme=dark" />
-
-<br/>
-
-<kbd>backend · devops</kbd>
-
-<img src="https://skillicons.dev/icons?i=nodejs,docker,linux,git,gitlab,jenkins&theme=dark" />
-
-<br/>
-
-<kbd>data</kbd>
-
-<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,py,c,cpp,php,rust,react,nextjs,vue,nuxt,angular,nodejs,docker,kubernetes,aws,postgres,redis,linux,git,gitlab,bitbucket,jenkins&theme=dark&perline=8" />
 
 </div>
 
