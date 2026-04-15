@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,py,c,cpp,php,rust,react,nextjs,vue,nuxt,angular,nodejs,docker,kubernetes,aws,postgres,redis,linux,git,gitlab,bitbucket,jenkins&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,py,c,cpp,php,rust,react,nextjs,vue,nuxt,angular,nodejs,spring,docker,kubernetes,aws,postgres,redis,linux,git,gitlab,bitbucket,jenkins,terraform,grafana,kafka,rabbitmq,elasticsearch&theme=dark" />
 
 </div>
 
