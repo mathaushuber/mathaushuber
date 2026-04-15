@@ -1,0 +1,72 @@
+<svg width="800" height="360" viewBox="0 0 800 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+  .box {
+    fill: #0d1117;
+    stroke: #1f6feb;
+    stroke-width: 1.2;
+    rx: 8;
+  }
+
+  .text {
+    fill: #c9d1d9;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+  }
+
+  .line {
+    stroke: #58a6ff;
+    stroke-width: 1.5;
+    stroke-dasharray: 4;
+    animation: dash 6s linear infinite;
+  }
+
+  @keyframes dash {
+    to {
+      stroke-dashoffset: -100;
+    }
+  }
+</style>
+
+<!-- CLIENT -->
+<rect x="40" y="140" width="100" height="40" class="box"></rect>
+<text x="90" y="165" text-anchor="middle" class="text">client</text>
+
+<!-- EDGE -->
+<rect x="180" y="140" width="120" height="40" class="box"></rect>
+<text x="240" y="165" text-anchor="middle" class="text">edge</text>
+
+<!-- API -->
+<rect x="340" y="140" width="120" height="40" class="box"></rect>
+<text x="400" y="165" text-anchor="middle" class="text">api</text>
+
+<!-- SERVICES -->
+<rect x="500" y="80" width="140" height="40" class="box"></rect>
+<text x="570" y="105" text-anchor="middle" class="text">services</text>
+
+<!-- QUEUE -->
+<rect x="500" y="160" width="140" height="40" class="box"></rect>
+<text x="570" y="185" text-anchor="middle" class="text">queue</text>
+
+<!-- WORKERS -->
+<rect x="680" y="160" width="120" height="40" class="box"></rect>
+<text x="740" y="185" text-anchor="middle" class="text">workers</text>
+
+<!-- DATA -->
+<rect x="680" y="80" width="120" height="40" class="box"></rect>
+<text x="740" y="105" text-anchor="middle" class="text">data</text>
+
+<!-- OBS -->
+<rect x="340" y="260" width="160" height="40" class="box"></rect>
+<text x="420" y="285" text-anchor="middle" class="text">observability</text>
+
+<!-- LINES -->
+<line x1="140" y1="160" x2="180" y2="160" class="line"></line>
+<line x1="300" y1="160" x2="340" y2="160" class="line"></line>
+<line x1="460" y1="160" x2="500" y2="100" class="line"></line>
+<line x1="460" y1="160" x2="500" y2="180" class="line"></line>
+<line x1="640" y1="100" x2="680" y2="100" class="line"></line>
+<line x1="640" y1="180" x2="680" y2="180" class="line"></line>
+<line x1="400" y1="180" x2="400" y2="260" class="line"></line>
+
+</svg>
