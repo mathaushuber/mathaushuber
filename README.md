@@ -38,11 +38,9 @@
 
 ---
 
-### `⌬` stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,py,c,cpp,php,rust,react,nextjs,vue,nuxt,angular,nodejs,docker,kubernetes,aws,postgres,redis,linux,git,gitlab,bitbucket,jenkins&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,py,c,cpp,php,rust,react,nextjs,vue,nuxt,angular,nodejs,docker,kubernetes,aws,postgres,redis,linux,git,gitlab,bitbucket,jenkins&theme=dark" />
 
 </div>
 
@@ -50,35 +48,15 @@
 
 ---
 
-### `⌥` engineering focus
+<div align="center">
 
-```
-  distributed systems         →  fault-tolerant, event-driven, asynchronous
-  backend architecture        →  clean boundaries, typed contracts, tested paths
-  API design                  →  versioned, consistent, developer-first
-  performance optimization    →  profiled, benchmarked, not assumed
-  scalable web applications   →  from 10 to 10M requests without rewriting
-```
+<img src=".github/architecture.svg" width="100%" />
+
+</div>
 
 <br/>
 
 ---
-
-### `∿` philosophy
-
-```
-  simplicity scales           complexity is debt paid in production incidents
-  latency matters             every millisecond is a UX decision
-  systems > scripts           design for the failure you haven't seen yet
-  clarity over cleverness     the next engineer is your user too
-  own the full stack          knowing infra makes you a better developer
-```
-
-<br/>
-
----
-
-### `⊞` signals
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mathaushuber&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
@@ -86,24 +64,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mathaushuber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="96%" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-```
- ╔══════════════════════════════════════════════════════╗
- ║  RUNTIME STATUS                          UTC-3       ║
- ╠══════════════════════════════════════════════════════╣
- ║  environment   production                            ║
- ║  mode          systems design · backend · web scale  ║
- ║  active focus  API architecture · distributed infra  ║
- ║  delivery      continuous                            ║
- ╚══════════════════════════════════════════════════════╝
-```
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathaushuber&theme=github-dark&bg_color=00000000&hide_border=true&line=58A6FF&point=58A6FF" width="98%" />
 </div>
