@@ -64,5 +64,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathaushuber&theme=github-dark&bg_color=00000000&hide_border=true&line=58A6FF&point=58A6FF" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathaushuber&theme=github-dark&bg_color=00000000&hide_border=true&line=58A6FF&point=58A6FF" width="100%" />
 </div>
